@@ -162,7 +162,7 @@
             "color__header--background" : "@color__secondary"
         },
         "footer": {
-            "color__footer--background" : "@color-swatch4"
+            "color__footer--background" : "@color__secondary"
         },
         "site": {
             "color__body--background": "#ffffff",
