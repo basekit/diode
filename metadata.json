@@ -214,7 +214,7 @@
             "color__feature-strapline--text": "@font-swatch9-color",
             "color__feature-button--text": "#fff",
             "color__feature-button--background": "@color__primary",
-            "color__feature-button--background--hover": "darken(@color__primary, 10%)",
+            "color__feature-button--background--hover": "@color__primary",
             "color__feature-button--border": "@color__primary",
             "font__feature-headline--font-family" : "@font-swatch8-font-family",
             "font__feature-headline--font-size" : "80px",
@@ -241,7 +241,7 @@
         },
         "button": {
             "color__button--background": "@color__primary",
-            "color__button--background--hover": "darken(@color__primary, 10%)",
+            "color__button--background--hover": "@color__primary",
             "color__button--text": "#fff",
             "font__button--font-family": "@font-swatch7-font-family",
             "font__button--font-size": "@font-swatch7-font-size",
