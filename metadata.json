@@ -1,7 +1,7 @@
 {
     "name": "Diode",
-    "thumbnail": "diode-screenshot",
-    "screenshot": "diode-screenshot-high.jpg",
+    "thumbnail": "thumbnail.png",
+    "screenshot": "diode-screenshot.jpg",
     "widgetVersion":2,
     "pageTypes": ["home"],
     "templateType":"standard",
